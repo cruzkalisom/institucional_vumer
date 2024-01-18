@@ -2,6 +2,11 @@ body{
     background-color: black;
 }
 
+footer{
+    background-color: #bbbbbb;
+    padding: 12px;
+}
+
 .nav-item{
     color: white;
 }
@@ -15,6 +20,11 @@ body{
 #image-main-carousel{
     margin-top: 12px;
     opacity: 20%;
+}
+
+.info-vumer{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
 }
 
 .animated-div {
