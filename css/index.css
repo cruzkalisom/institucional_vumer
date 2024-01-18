@@ -3,7 +3,8 @@ body{
 }
 
 footer{
-    background-color: #bbbbbb;
+    /*background-color: #bbbbbb;*/
+    color: #c40101;
     padding: 12px;
 }
 
