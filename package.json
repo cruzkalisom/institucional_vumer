@@ -1,0 +1,16 @@
+{
+  "name": "institucional_vumer",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Kalisom Cruz",
+  "license": "ISC",
+  "description": "Site institucional da Vumer Web Solutions",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^5.1.0"
+  }
+}
